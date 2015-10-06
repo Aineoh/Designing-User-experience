@@ -6,3 +6,14 @@ In this project I am creating a game for the pizza company called [Little Wing](
 ![User Personas](https://s-media-cache-ak0.pinimg.com/736x/85/c0/ad/85c0adc550a3a6f88b37ccee17248f26.jpg) 
 
 I found this useful sketch on how to develope user personas. 
+
+![kids games](http://topbestappsforkids.com/bestappsforkids/best-musical-apps-for-kids-Happy-Tunes-5.jpg) 
+![kids games](http://cdn2.pcadvisor.co.uk/cmsdata/features/3358278/Toca-Store-app-game-kids.jpg) 
+![kids games](http://topbestappsforkids.com/bestappsforkids/best-kids-apps-Lolas-fruit-shop-sudoku-18.jpg) 
+![kids games](https://lh3.ggpht.com/T9GlycTTIK7N2y2q50iD3HaqK6XmUHmhpbzcecESE60_eikFM-69UOD1NM2HvQ_u3X0=h900) 
+
+I did some research into different childrens apps and how they look. From my research I found that bright colours and characters are what children want in a game. 
+
+I also conducted a survey on my nieces and nephews and asked them what they liked in a game. The girls and boys answers were different so it will be about bringing both qualities together for the game. 
+
+I also took into consideration what the parents might like for the app. As a parent myself I think its very important to know what games your kids are playing. From this research I gathered that parents want their children to be entertained but don't want anything too crazy so their children will happily but the game down and enjoy their meal. 
