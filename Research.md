@@ -42,3 +42,5 @@ I wanted to develope a character of a chef who would guide the user through the 
 ![chef character](https://s-media-cache-ak0.pinimg.com/736x/c8/4a/78/c84a7844ce4624890d049697068e9ea5.jpg)
 
 ![chef](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdCkZ5CWve1S26jvwWG1Dx57UC1Zc4wK9jnwVHd5zYkjrRubZ)
+
+After research into this 
