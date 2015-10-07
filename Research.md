@@ -32,3 +32,11 @@ I also took into consideration what the parents might like for the app. As a par
 ![littlewing](http://www.littlewingpizzeria.com/wp-content/uploads/2015/08/Little-Wing-Enniskillen-Exterior.jpg)
 
 Another part of my research was looking at the different resturant locations of little wing. Luckily all the resturaunts stick to the same type of branding and colours. So it wont be difficult to add these into the app without confusing the child about a different location.  
+
+I wanted to develope a character of a chef who would guide the user through the app and help them create their meals. I want this character to appeal to both genders and be a fun character for the kids to work with on the app. 
+
+![chef character](http://st.depositphotos.com/1007168/3365/i/950/depositphotos_33655687-Cute-Little-African-American-Chef-Cartoon-Character-Waving-For-Greeting.jpg)
+
+![chef character](https://s-media-cache-ak0.pinimg.com/736x/c8/4a/78/c84a7844ce4624890d049697068e9ea5.jpg)
+
+![chef](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdCkZ5CWve1S26jvwWG1Dx57UC1Zc4wK9jnwVHd5zYkjrRubZ)
