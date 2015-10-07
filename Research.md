@@ -1,7 +1,16 @@
 User personas
 --------------
 
-In this project I am creating a game for the pizza company called [Little Wing](http://www.littlewingpizzeria.com). One of the first tasks I had to do was to create a user persona. The reason user personas are so valuable at the begining of a project is becasue it allows the developer to fully understand the target audience. Doing this research at the begining leads to a better approach to the app and means a better idea can be created that suits the started 
+In this project I am creating a game for the pizza company called [Little Wing](http://www.littlewingpizzeria.com). During my first week back at university we had a brief from the company marketing manager and she told use all about the history of the company and how they want to develope their app to help their customers have a more peaceful experience at Little Wing. 
+
+During our brain storming session I came up with the idea of an app that allows the user to make their food. My intial thoughts behind this were about how the app may have a calming affect on the child and keep them entertained during the wait for their meal. I based my inital ideas on cooking academy and Strawberry Shortcake.
+
+![cooking academy](http://a2.mzstatic.com/us/r1000/065/Purple/50/b8/25/mzl.jgsijrek.800x500-75.jpg)
+
+![strawberry shortcake](http://www.strawberryshortcake.com/ss/respond/apps/bakeshop/screen-2.jpg)
+
+
+One of the first tasks I had to do was to create a user persona. The reason user personas are so valuable at the begining of a project is becasue it allows the developer to fully understand the target audience. Doing this research at the begining leads to a better approach to the app and means a better idea can be created that suits the started 
 
 ![User Personas](https://s-media-cache-ak0.pinimg.com/736x/85/c0/ad/85c0adc550a3a6f88b37ccee17248f26.jpg) 
 
@@ -17,3 +26,7 @@ I did some research into different childrens apps and how they look. From my res
 I also conducted a survey on my nieces and nephews and asked them what they liked in a game. The girls and boys answers were different so it will be about bringing both qualities together for the game. 
 
 I also took into consideration what the parents might like for the app. As a parent myself I think its very important to know what games your kids are playing. From this research I gathered that parents want their children to be entertained but don't want anything too crazy so their children will happily but the game down and enjoy their meal. 
+
+![littlewing](http://www.littlewingpizzeria.com/wp-content/uploads/2015/08/Little-Wing-Enniskillen-Exterior.jpg)
+
+Another part of my research was looking at the different resturant locations of little wing. Luckily all the resturaunts stick to the same type of branding and colours. So it wont be difficult to add these into the app without confusing the child about a different location.  
