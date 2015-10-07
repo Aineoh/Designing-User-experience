@@ -1,5 +1,5 @@
-User personas
---------------
+Little Wing Project
+--------------------
 
 In this project I am creating a game for the pizza company called [Little Wing](http://www.littlewingpizzeria.com). During my first week back at university we had a brief from the company marketing manager and she told use all about the history of the company and how they want to develope their app to help their customers have a more peaceful experience at Little Wing. 
 
@@ -9,6 +9,8 @@ During our brain storming session I came up with the idea of an app that allows 
 
 ![strawberry shortcake](http://www.strawberryshortcake.com/ss/respond/apps/bakeshop/screen-2.jpg)
 
+User personas
+--------------
 
 One of the first tasks I had to do was to create a user persona. The reason user personas are so valuable at the begining of a project is becasue it allows the developer to fully understand the target audience. Doing this research at the begining leads to a better approach to the app and means a better idea can be created that suits the started 
 
