@@ -5,7 +5,7 @@ In this project I am creating a game for the pizza company called [Little Wing](
 
 ![User Personas](https://s-media-cache-ak0.pinimg.com/736x/85/c0/ad/85c0adc550a3a6f88b37ccee17248f26.jpg) 
 
-I found this useful sketch on how to develope user personas. 
+I found this useful sketch on how to develope user personas, although I found it difficult to find user personas for children so it will be interesting to see the approach I take in developing these personas. 
 
 ![kids games](http://topbestappsforkids.com/bestappsforkids/best-musical-apps-for-kids-Happy-Tunes-5.jpg) 
 ![kids games](http://cdn2.pcadvisor.co.uk/cmsdata/features/3358278/Toca-Store-app-game-kids.jpg) 
