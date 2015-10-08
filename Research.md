@@ -55,7 +55,11 @@ After research into this I started to develope my own characters for the app. I 
 I was looking at different artist to try and get a certain look for my characters and whilst researching this I came around different artists whose still would be great for this app. Mary Blair is an illustrator who worked for disney and created initial sketches for their animations. I really liked her style and I think it would set their app apart from other games in this genre. 
 
 ![Mary Blair](https://s-media-cache-ak0.pinimg.com/736x/88/a8/1f/88a81fd30fd9fb541e59f0c1cf640813.jpg)
+![Mary Blair](https://s-media-cache-ak0.pinimg.com/474x/ce/26/6a/ce266aa0e6188b3b532543587cb0b1a1.jpg)
 
+I also looked at an illustrator called Joey Chou who has a very similiar style
+
+![Joey Chou](https://s-media-cache-ak0.pinimg.com/736x/dd/b8/c2/ddb8c29b2a986a4f06dfd475dcfd6e37.jpg)
 
 
 
