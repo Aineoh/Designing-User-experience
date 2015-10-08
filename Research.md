@@ -33,6 +33,11 @@ I also took into consideration what the parents might like for the app. As a par
 
 Another part of my research was looking at the different resturant locations of little wing. Luckily all the resturaunts stick to the same type of branding and colours. So it wont be difficult to add these into the app without confusing the child about a different location.  
 
+Game Developement
+------------------
+
+What I want this game to be is a light entertaining game for kids before they start their meal.
+
 Character developement
 -----------------------
 I wanted to develope a character of a chef who would guide the user through the app and help them create their meals. I want this character to appeal to both genders and be a fun character for the kids to work with on the app. 
@@ -43,4 +48,18 @@ I wanted to develope a character of a chef who would guide the user through the 
 
 ![chef](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdCkZ5CWve1S26jvwWG1Dx57UC1Zc4wK9jnwVHd5zYkjrRubZ)
 
-After research into this 
+After research into this I started to develope my own characters for the app. I wanted to create character that were simple and were made up of different shapes. After looking at the Little Wing website I wanted to continue with thir style and make the app look sketchy like their logo and designs. Here are some on my intial designs. 
+
+![Imgur](http://i.imgur.com/AMtaJxM.jpg)
+
+I was looking at different artist to try and get a certain look for my characters and whilst researching this I came around different artists whose still would be great for this app. Mary Blair is an illustrator who worked for disney and created initial sketches for their animations. I really liked her style and I think it would set their app apart from other games in this genre. 
+
+![Mary Blair](https://s-media-cache-ak0.pinimg.com/736x/88/a8/1f/88a81fd30fd9fb541e59f0c1cf640813.jpg)
+
+
+
+
+TOUCHPOINTS- Put it on menu, sign in resturant. 
+
+welcome screen
+
