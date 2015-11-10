@@ -61,9 +61,20 @@ I also looked at an illustrator called Joey Chou who has a very similiar style.
 
 ![Joey Chou](https://s-media-cache-ak0.pinimg.com/736x/dd/b8/c2/ddb8c29b2a986a4f06dfd475dcfd6e37.jpg)
 
+Style tile
+----------
+
+![styletile](http://i.imgur.com/eZdnZrc.png)
+
+Invision Prototype
+-------------------
+
+[Invision Little Wing prototype](https://invis.io/7A4V66E8E)
+
+After effects
+--------------
+
+[After effects](https://vimeo.com/145265330)
 
 
-TOUCHPOINTS- Put it on menu, sign in restaurant. 
-
-welcome screen
 
